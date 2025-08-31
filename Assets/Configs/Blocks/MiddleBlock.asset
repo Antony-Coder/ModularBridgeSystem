@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a78414517af7fb24d9d5c005a7e82209, type: 3}
+  m_Name: MiddleBlock
+  m_EditorClassIdentifier: 
+  length: 5
+  buildCorrectStateMaterial: {fileID: 2100000, guid: 6aaf567c8de75384a8b7f81240d77200, type: 2}
+  buildWrongStateMaterial: {fileID: 2100000, guid: 28c2d4f7de0eced4584d3cbce38afc4b, type: 2}
+  compliteMaterial: {fileID: 2100000, guid: dc3da00df4cc1034b85956893a6bc40e, type: 2}
+  prefab: {fileID: 7694946747000952837, guid: 9619a95a2d0c53340bcc41508960f25b, type: 3}
